@@ -1,0 +1,45 @@
+body {
+  background: #f5f5f5;
+}
+
+.label-preview {
+  display: flex;
+  justify-content: center;
+}
+
+.label-card {
+  border: 1px dashed #4a4a4a;
+  width: 320px;
+  padding: 10px;
+  background: white;
+  text-align: center;
+}
+
+.label-header {
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-bottom: 4px;
+}
+
+.label-name {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.label-category {
+  font-size: 12px;
+  margin-bottom: 4px;
+}
+
+.label-location {
+  font-size: 12px;
+  color: #4a4a4a;
+  margin-bottom: 8px;
+}
+
+@media print {
+  body { background: white; }
+  .section { padding: 0; }
+  .label-card { border: none; box-shadow: none; }
+  .buttons, .notification, h1, h2, h3, p.subtitle { display: none; }
+}

@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="box">
+  <h2 class="title is-5">Etiqueta para {{ item.code }}</h2>
+  <div class="label-preview">
+    <div class="label-card">
+      <div class="label-header">{{ item.code }}</div>
+      <div class="label-body">
+        <div class="label-name">{{ item.name }}</div>
+        <div class="label-category">{{ item.category }} | {{ item.unit }}</div>
+        <div class="label-location">{{ item.location }}</div>
+        <img src="{{ barcode_image }}" alt="Código de barras {{ item.code }}" />
+      </div>
+    </div>
+  </div>
+  <div class="buttons">
+    <a class="button" href="{{ url_for('index') }}">Volver</a>
+    <button class="button is-link" onclick="window.print()">Imprimir etiqueta</button>
+  </div>
+</div>
+{% endblock %}

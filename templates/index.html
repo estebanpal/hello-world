@@ -1,0 +1,83 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="columns">
+  <div class="column is-one-quarter">
+    <div class="box">
+      <h2 class="title is-5">Lectura de código</h2>
+      <form action="{{ url_for('scan') }}" method="post">
+        <div class="field">
+          <label class="label">Código de barras</label>
+          <div class="control">
+            <input class="input" type="text" name="code" placeholder="ITM001" required>
+          </div>
+        </div>
+        <div class="field">
+          <label class="label">Tipo de movimiento</label>
+          <div class="control">
+            <div class="select is-fullwidth">
+              <select name="action">
+                <option value="IN">Ingreso</option>
+                <option value="OUT">Salida</option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div class="field">
+          <label class="label">Cantidad</label>
+          <div class="control">
+            <input class="input" type="number" name="quantity" value="1" min="1" required>
+          </div>
+        </div>
+        <div class="field">
+          <label class="label">Referencia</label>
+          <div class="control">
+            <input class="input" type="text" name="reference" placeholder="OC-123 / proyecto / motivo">
+          </div>
+        </div>
+        <div class="field is-grouped">
+          <div class="control">
+            <button type="submit" class="button is-link">Registrar</button>
+          </div>
+          <div class="control">
+            <a class="button is-light" href="{{ url_for('kardex_export') }}">Descargar Kardex (Excel)</a>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+      <h2 class="title is-5">Inventario ({{ items|length }} ítems)</h2>
+      <div class="table-container">
+        <table class="table is-striped is-fullwidth is-hoverable">
+          <thead>
+            <tr>
+              <th>Código</th>
+              <th>Nombre</th>
+              <th>Categoría</th>
+              <th>Unidad</th>
+              <th>Stock</th>
+              <th>Ubicación</th>
+              <th>Etiqueta</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for item in items %}
+            <tr>
+              <td>{{ item.code }}</td>
+              <td>{{ item.name }}</td>
+              <td>{{ item.category }}</td>
+              <td>{{ item.unit }}</td>
+              <td><span class="tag is-info">{{ item.stock }}</span></td>
+              <td>{{ item.location }}</td>
+              <td><a class="button is-small" href="{{ url_for('label', code=item.code) }}">Ver etiqueta</a></td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

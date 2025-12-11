@@ -1,0 +1,1802 @@
+[
+  {
+    "code": "ITM001",
+    "name": "Ítem de almacén 1",
+    "category": "Tela",
+    "unit": "metro",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM002",
+    "name": "Ítem de almacén 2",
+    "category": "Herrajes",
+    "unit": "litro",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM003",
+    "name": "Ítem de almacén 3",
+    "category": "Eléctrico",
+    "unit": "juego",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM004",
+    "name": "Ítem de almacén 4",
+    "category": "Pintura",
+    "unit": "rollo",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM005",
+    "name": "Ítem de almacén 5",
+    "category": "Fijaciones",
+    "unit": "kg",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM006",
+    "name": "Ítem de almacén 6",
+    "category": "Consumible",
+    "unit": "par",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM007",
+    "name": "Ítem de almacén 7",
+    "category": "Seguridad",
+    "unit": "unidad",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM008",
+    "name": "Ítem de almacén 8",
+    "category": "Mecánico",
+    "unit": "metro",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM009",
+    "name": "Ítem de almacén 9",
+    "category": "Adhesivos",
+    "unit": "litro",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM010",
+    "name": "Ítem de almacén 10",
+    "category": "Estructura",
+    "unit": "juego",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM011",
+    "name": "Ítem de almacén 11",
+    "category": "Tela",
+    "unit": "rollo",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM012",
+    "name": "Ítem de almacén 12",
+    "category": "Herrajes",
+    "unit": "kg",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM013",
+    "name": "Ítem de almacén 13",
+    "category": "Eléctrico",
+    "unit": "par",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM014",
+    "name": "Ítem de almacén 14",
+    "category": "Pintura",
+    "unit": "unidad",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM015",
+    "name": "Ítem de almacén 15",
+    "category": "Fijaciones",
+    "unit": "metro",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM016",
+    "name": "Ítem de almacén 16",
+    "category": "Consumible",
+    "unit": "litro",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM017",
+    "name": "Ítem de almacén 17",
+    "category": "Seguridad",
+    "unit": "juego",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM018",
+    "name": "Ítem de almacén 18",
+    "category": "Mecánico",
+    "unit": "rollo",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM019",
+    "name": "Ítem de almacén 19",
+    "category": "Adhesivos",
+    "unit": "kg",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM020",
+    "name": "Ítem de almacén 20",
+    "category": "Estructura",
+    "unit": "par",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM021",
+    "name": "Ítem de almacén 21",
+    "category": "Tela",
+    "unit": "unidad",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM022",
+    "name": "Ítem de almacén 22",
+    "category": "Herrajes",
+    "unit": "metro",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM023",
+    "name": "Ítem de almacén 23",
+    "category": "Eléctrico",
+    "unit": "litro",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM024",
+    "name": "Ítem de almacén 24",
+    "category": "Pintura",
+    "unit": "juego",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM025",
+    "name": "Ítem de almacén 25",
+    "category": "Fijaciones",
+    "unit": "rollo",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM026",
+    "name": "Ítem de almacén 26",
+    "category": "Consumible",
+    "unit": "kg",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM027",
+    "name": "Ítem de almacén 27",
+    "category": "Seguridad",
+    "unit": "par",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM028",
+    "name": "Ítem de almacén 28",
+    "category": "Mecánico",
+    "unit": "unidad",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM029",
+    "name": "Ítem de almacén 29",
+    "category": "Adhesivos",
+    "unit": "metro",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM030",
+    "name": "Ítem de almacén 30",
+    "category": "Estructura",
+    "unit": "litro",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM031",
+    "name": "Ítem de almacén 31",
+    "category": "Tela",
+    "unit": "juego",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM032",
+    "name": "Ítem de almacén 32",
+    "category": "Herrajes",
+    "unit": "rollo",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM033",
+    "name": "Ítem de almacén 33",
+    "category": "Eléctrico",
+    "unit": "kg",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM034",
+    "name": "Ítem de almacén 34",
+    "category": "Pintura",
+    "unit": "par",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM035",
+    "name": "Ítem de almacén 35",
+    "category": "Fijaciones",
+    "unit": "unidad",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM036",
+    "name": "Ítem de almacén 36",
+    "category": "Consumible",
+    "unit": "metro",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM037",
+    "name": "Ítem de almacén 37",
+    "category": "Seguridad",
+    "unit": "litro",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM038",
+    "name": "Ítem de almacén 38",
+    "category": "Mecánico",
+    "unit": "juego",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM039",
+    "name": "Ítem de almacén 39",
+    "category": "Adhesivos",
+    "unit": "rollo",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM040",
+    "name": "Ítem de almacén 40",
+    "category": "Estructura",
+    "unit": "kg",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM041",
+    "name": "Ítem de almacén 41",
+    "category": "Tela",
+    "unit": "par",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM042",
+    "name": "Ítem de almacén 42",
+    "category": "Herrajes",
+    "unit": "unidad",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM043",
+    "name": "Ítem de almacén 43",
+    "category": "Eléctrico",
+    "unit": "metro",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM044",
+    "name": "Ítem de almacén 44",
+    "category": "Pintura",
+    "unit": "litro",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM045",
+    "name": "Ítem de almacén 45",
+    "category": "Fijaciones",
+    "unit": "juego",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM046",
+    "name": "Ítem de almacén 46",
+    "category": "Consumible",
+    "unit": "rollo",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM047",
+    "name": "Ítem de almacén 47",
+    "category": "Seguridad",
+    "unit": "kg",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM048",
+    "name": "Ítem de almacén 48",
+    "category": "Mecánico",
+    "unit": "par",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM049",
+    "name": "Ítem de almacén 49",
+    "category": "Adhesivos",
+    "unit": "unidad",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM050",
+    "name": "Ítem de almacén 50",
+    "category": "Estructura",
+    "unit": "metro",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM051",
+    "name": "Ítem de almacén 51",
+    "category": "Tela",
+    "unit": "litro",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM052",
+    "name": "Ítem de almacén 52",
+    "category": "Herrajes",
+    "unit": "juego",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM053",
+    "name": "Ítem de almacén 53",
+    "category": "Eléctrico",
+    "unit": "rollo",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM054",
+    "name": "Ítem de almacén 54",
+    "category": "Pintura",
+    "unit": "kg",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM055",
+    "name": "Ítem de almacén 55",
+    "category": "Fijaciones",
+    "unit": "par",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM056",
+    "name": "Ítem de almacén 56",
+    "category": "Consumible",
+    "unit": "unidad",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM057",
+    "name": "Ítem de almacén 57",
+    "category": "Seguridad",
+    "unit": "metro",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM058",
+    "name": "Ítem de almacén 58",
+    "category": "Mecánico",
+    "unit": "litro",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM059",
+    "name": "Ítem de almacén 59",
+    "category": "Adhesivos",
+    "unit": "juego",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM060",
+    "name": "Ítem de almacén 60",
+    "category": "Estructura",
+    "unit": "rollo",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM061",
+    "name": "Ítem de almacén 61",
+    "category": "Tela",
+    "unit": "kg",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM062",
+    "name": "Ítem de almacén 62",
+    "category": "Herrajes",
+    "unit": "par",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM063",
+    "name": "Ítem de almacén 63",
+    "category": "Eléctrico",
+    "unit": "unidad",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM064",
+    "name": "Ítem de almacén 64",
+    "category": "Pintura",
+    "unit": "metro",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM065",
+    "name": "Ítem de almacén 65",
+    "category": "Fijaciones",
+    "unit": "litro",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM066",
+    "name": "Ítem de almacén 66",
+    "category": "Consumible",
+    "unit": "juego",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM067",
+    "name": "Ítem de almacén 67",
+    "category": "Seguridad",
+    "unit": "rollo",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM068",
+    "name": "Ítem de almacén 68",
+    "category": "Mecánico",
+    "unit": "kg",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM069",
+    "name": "Ítem de almacén 69",
+    "category": "Adhesivos",
+    "unit": "par",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM070",
+    "name": "Ítem de almacén 70",
+    "category": "Estructura",
+    "unit": "unidad",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM071",
+    "name": "Ítem de almacén 71",
+    "category": "Tela",
+    "unit": "metro",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM072",
+    "name": "Ítem de almacén 72",
+    "category": "Herrajes",
+    "unit": "litro",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM073",
+    "name": "Ítem de almacén 73",
+    "category": "Eléctrico",
+    "unit": "juego",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM074",
+    "name": "Ítem de almacén 74",
+    "category": "Pintura",
+    "unit": "rollo",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM075",
+    "name": "Ítem de almacén 75",
+    "category": "Fijaciones",
+    "unit": "kg",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM076",
+    "name": "Ítem de almacén 76",
+    "category": "Consumible",
+    "unit": "par",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM077",
+    "name": "Ítem de almacén 77",
+    "category": "Seguridad",
+    "unit": "unidad",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM078",
+    "name": "Ítem de almacén 78",
+    "category": "Mecánico",
+    "unit": "metro",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM079",
+    "name": "Ítem de almacén 79",
+    "category": "Adhesivos",
+    "unit": "litro",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM080",
+    "name": "Ítem de almacén 80",
+    "category": "Estructura",
+    "unit": "juego",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM081",
+    "name": "Ítem de almacén 81",
+    "category": "Tela",
+    "unit": "rollo",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM082",
+    "name": "Ítem de almacén 82",
+    "category": "Herrajes",
+    "unit": "kg",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM083",
+    "name": "Ítem de almacén 83",
+    "category": "Eléctrico",
+    "unit": "par",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM084",
+    "name": "Ítem de almacén 84",
+    "category": "Pintura",
+    "unit": "unidad",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM085",
+    "name": "Ítem de almacén 85",
+    "category": "Fijaciones",
+    "unit": "metro",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM086",
+    "name": "Ítem de almacén 86",
+    "category": "Consumible",
+    "unit": "litro",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM087",
+    "name": "Ítem de almacén 87",
+    "category": "Seguridad",
+    "unit": "juego",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM088",
+    "name": "Ítem de almacén 88",
+    "category": "Mecánico",
+    "unit": "rollo",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM089",
+    "name": "Ítem de almacén 89",
+    "category": "Adhesivos",
+    "unit": "kg",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM090",
+    "name": "Ítem de almacén 90",
+    "category": "Estructura",
+    "unit": "par",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM091",
+    "name": "Ítem de almacén 91",
+    "category": "Tela",
+    "unit": "unidad",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM092",
+    "name": "Ítem de almacén 92",
+    "category": "Herrajes",
+    "unit": "metro",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM093",
+    "name": "Ítem de almacén 93",
+    "category": "Eléctrico",
+    "unit": "litro",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM094",
+    "name": "Ítem de almacén 94",
+    "category": "Pintura",
+    "unit": "juego",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM095",
+    "name": "Ítem de almacén 95",
+    "category": "Fijaciones",
+    "unit": "rollo",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM096",
+    "name": "Ítem de almacén 96",
+    "category": "Consumible",
+    "unit": "kg",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM097",
+    "name": "Ítem de almacén 97",
+    "category": "Seguridad",
+    "unit": "par",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM098",
+    "name": "Ítem de almacén 98",
+    "category": "Mecánico",
+    "unit": "unidad",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM099",
+    "name": "Ítem de almacén 99",
+    "category": "Adhesivos",
+    "unit": "metro",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM100",
+    "name": "Ítem de almacén 100",
+    "category": "Estructura",
+    "unit": "litro",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM101",
+    "name": "Ítem de almacén 101",
+    "category": "Tela",
+    "unit": "juego",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM102",
+    "name": "Ítem de almacén 102",
+    "category": "Herrajes",
+    "unit": "rollo",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM103",
+    "name": "Ítem de almacén 103",
+    "category": "Eléctrico",
+    "unit": "kg",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM104",
+    "name": "Ítem de almacén 104",
+    "category": "Pintura",
+    "unit": "par",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM105",
+    "name": "Ítem de almacén 105",
+    "category": "Fijaciones",
+    "unit": "unidad",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM106",
+    "name": "Ítem de almacén 106",
+    "category": "Consumible",
+    "unit": "metro",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM107",
+    "name": "Ítem de almacén 107",
+    "category": "Seguridad",
+    "unit": "litro",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM108",
+    "name": "Ítem de almacén 108",
+    "category": "Mecánico",
+    "unit": "juego",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM109",
+    "name": "Ítem de almacén 109",
+    "category": "Adhesivos",
+    "unit": "rollo",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM110",
+    "name": "Ítem de almacén 110",
+    "category": "Estructura",
+    "unit": "kg",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM111",
+    "name": "Ítem de almacén 111",
+    "category": "Tela",
+    "unit": "par",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM112",
+    "name": "Ítem de almacén 112",
+    "category": "Herrajes",
+    "unit": "unidad",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM113",
+    "name": "Ítem de almacén 113",
+    "category": "Eléctrico",
+    "unit": "metro",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM114",
+    "name": "Ítem de almacén 114",
+    "category": "Pintura",
+    "unit": "litro",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM115",
+    "name": "Ítem de almacén 115",
+    "category": "Fijaciones",
+    "unit": "juego",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM116",
+    "name": "Ítem de almacén 116",
+    "category": "Consumible",
+    "unit": "rollo",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM117",
+    "name": "Ítem de almacén 117",
+    "category": "Seguridad",
+    "unit": "kg",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM118",
+    "name": "Ítem de almacén 118",
+    "category": "Mecánico",
+    "unit": "par",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM119",
+    "name": "Ítem de almacén 119",
+    "category": "Adhesivos",
+    "unit": "unidad",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM120",
+    "name": "Ítem de almacén 120",
+    "category": "Estructura",
+    "unit": "metro",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM121",
+    "name": "Ítem de almacén 121",
+    "category": "Tela",
+    "unit": "litro",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM122",
+    "name": "Ítem de almacén 122",
+    "category": "Herrajes",
+    "unit": "juego",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM123",
+    "name": "Ítem de almacén 123",
+    "category": "Eléctrico",
+    "unit": "rollo",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM124",
+    "name": "Ítem de almacén 124",
+    "category": "Pintura",
+    "unit": "kg",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM125",
+    "name": "Ítem de almacén 125",
+    "category": "Fijaciones",
+    "unit": "par",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM126",
+    "name": "Ítem de almacén 126",
+    "category": "Consumible",
+    "unit": "unidad",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM127",
+    "name": "Ítem de almacén 127",
+    "category": "Seguridad",
+    "unit": "metro",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM128",
+    "name": "Ítem de almacén 128",
+    "category": "Mecánico",
+    "unit": "litro",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM129",
+    "name": "Ítem de almacén 129",
+    "category": "Adhesivos",
+    "unit": "juego",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM130",
+    "name": "Ítem de almacén 130",
+    "category": "Estructura",
+    "unit": "rollo",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM131",
+    "name": "Ítem de almacén 131",
+    "category": "Tela",
+    "unit": "kg",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM132",
+    "name": "Ítem de almacén 132",
+    "category": "Herrajes",
+    "unit": "par",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM133",
+    "name": "Ítem de almacén 133",
+    "category": "Eléctrico",
+    "unit": "unidad",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM134",
+    "name": "Ítem de almacén 134",
+    "category": "Pintura",
+    "unit": "metro",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM135",
+    "name": "Ítem de almacén 135",
+    "category": "Fijaciones",
+    "unit": "litro",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM136",
+    "name": "Ítem de almacén 136",
+    "category": "Consumible",
+    "unit": "juego",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM137",
+    "name": "Ítem de almacén 137",
+    "category": "Seguridad",
+    "unit": "rollo",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM138",
+    "name": "Ítem de almacén 138",
+    "category": "Mecánico",
+    "unit": "kg",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM139",
+    "name": "Ítem de almacén 139",
+    "category": "Adhesivos",
+    "unit": "par",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM140",
+    "name": "Ítem de almacén 140",
+    "category": "Estructura",
+    "unit": "unidad",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM141",
+    "name": "Ítem de almacén 141",
+    "category": "Tela",
+    "unit": "metro",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM142",
+    "name": "Ítem de almacén 142",
+    "category": "Herrajes",
+    "unit": "litro",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM143",
+    "name": "Ítem de almacén 143",
+    "category": "Eléctrico",
+    "unit": "juego",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM144",
+    "name": "Ítem de almacén 144",
+    "category": "Pintura",
+    "unit": "rollo",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM145",
+    "name": "Ítem de almacén 145",
+    "category": "Fijaciones",
+    "unit": "kg",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM146",
+    "name": "Ítem de almacén 146",
+    "category": "Consumible",
+    "unit": "par",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM147",
+    "name": "Ítem de almacén 147",
+    "category": "Seguridad",
+    "unit": "unidad",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM148",
+    "name": "Ítem de almacén 148",
+    "category": "Mecánico",
+    "unit": "metro",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM149",
+    "name": "Ítem de almacén 149",
+    "category": "Adhesivos",
+    "unit": "litro",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM150",
+    "name": "Ítem de almacén 150",
+    "category": "Estructura",
+    "unit": "juego",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM151",
+    "name": "Ítem de almacén 151",
+    "category": "Tela",
+    "unit": "rollo",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM152",
+    "name": "Ítem de almacén 152",
+    "category": "Herrajes",
+    "unit": "kg",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM153",
+    "name": "Ítem de almacén 153",
+    "category": "Eléctrico",
+    "unit": "par",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM154",
+    "name": "Ítem de almacén 154",
+    "category": "Pintura",
+    "unit": "unidad",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM155",
+    "name": "Ítem de almacén 155",
+    "category": "Fijaciones",
+    "unit": "metro",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM156",
+    "name": "Ítem de almacén 156",
+    "category": "Consumible",
+    "unit": "litro",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM157",
+    "name": "Ítem de almacén 157",
+    "category": "Seguridad",
+    "unit": "juego",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM158",
+    "name": "Ítem de almacén 158",
+    "category": "Mecánico",
+    "unit": "rollo",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM159",
+    "name": "Ítem de almacén 159",
+    "category": "Adhesivos",
+    "unit": "kg",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM160",
+    "name": "Ítem de almacén 160",
+    "category": "Estructura",
+    "unit": "par",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM161",
+    "name": "Ítem de almacén 161",
+    "category": "Tela",
+    "unit": "unidad",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM162",
+    "name": "Ítem de almacén 162",
+    "category": "Herrajes",
+    "unit": "metro",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM163",
+    "name": "Ítem de almacén 163",
+    "category": "Eléctrico",
+    "unit": "litro",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM164",
+    "name": "Ítem de almacén 164",
+    "category": "Pintura",
+    "unit": "juego",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM165",
+    "name": "Ítem de almacén 165",
+    "category": "Fijaciones",
+    "unit": "rollo",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM166",
+    "name": "Ítem de almacén 166",
+    "category": "Consumible",
+    "unit": "kg",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM167",
+    "name": "Ítem de almacén 167",
+    "category": "Seguridad",
+    "unit": "par",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM168",
+    "name": "Ítem de almacén 168",
+    "category": "Mecánico",
+    "unit": "unidad",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM169",
+    "name": "Ítem de almacén 169",
+    "category": "Adhesivos",
+    "unit": "metro",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM170",
+    "name": "Ítem de almacén 170",
+    "category": "Estructura",
+    "unit": "litro",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM171",
+    "name": "Ítem de almacén 171",
+    "category": "Tela",
+    "unit": "juego",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM172",
+    "name": "Ítem de almacén 172",
+    "category": "Herrajes",
+    "unit": "rollo",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM173",
+    "name": "Ítem de almacén 173",
+    "category": "Eléctrico",
+    "unit": "kg",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM174",
+    "name": "Ítem de almacén 174",
+    "category": "Pintura",
+    "unit": "par",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM175",
+    "name": "Ítem de almacén 175",
+    "category": "Fijaciones",
+    "unit": "unidad",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM176",
+    "name": "Ítem de almacén 176",
+    "category": "Consumible",
+    "unit": "metro",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM177",
+    "name": "Ítem de almacén 177",
+    "category": "Seguridad",
+    "unit": "litro",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM178",
+    "name": "Ítem de almacén 178",
+    "category": "Mecánico",
+    "unit": "juego",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM179",
+    "name": "Ítem de almacén 179",
+    "category": "Adhesivos",
+    "unit": "rollo",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM180",
+    "name": "Ítem de almacén 180",
+    "category": "Estructura",
+    "unit": "kg",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM181",
+    "name": "Ítem de almacén 181",
+    "category": "Tela",
+    "unit": "par",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM182",
+    "name": "Ítem de almacén 182",
+    "category": "Herrajes",
+    "unit": "unidad",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM183",
+    "name": "Ítem de almacén 183",
+    "category": "Eléctrico",
+    "unit": "metro",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM184",
+    "name": "Ítem de almacén 184",
+    "category": "Pintura",
+    "unit": "litro",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM185",
+    "name": "Ítem de almacén 185",
+    "category": "Fijaciones",
+    "unit": "juego",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM186",
+    "name": "Ítem de almacén 186",
+    "category": "Consumible",
+    "unit": "rollo",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM187",
+    "name": "Ítem de almacén 187",
+    "category": "Seguridad",
+    "unit": "kg",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM188",
+    "name": "Ítem de almacén 188",
+    "category": "Mecánico",
+    "unit": "par",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM189",
+    "name": "Ítem de almacén 189",
+    "category": "Adhesivos",
+    "unit": "unidad",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM190",
+    "name": "Ítem de almacén 190",
+    "category": "Estructura",
+    "unit": "metro",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM191",
+    "name": "Ítem de almacén 191",
+    "category": "Tela",
+    "unit": "litro",
+    "stock": 30,
+    "location": "Pasillo 2 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM192",
+    "name": "Ítem de almacén 192",
+    "category": "Herrajes",
+    "unit": "juego",
+    "stock": 35,
+    "location": "Pasillo 3 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM193",
+    "name": "Ítem de almacén 193",
+    "category": "Eléctrico",
+    "unit": "rollo",
+    "stock": 40,
+    "location": "Pasillo 4 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM194",
+    "name": "Ítem de almacén 194",
+    "category": "Pintura",
+    "unit": "kg",
+    "stock": 45,
+    "location": "Pasillo 5 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM195",
+    "name": "Ítem de almacén 195",
+    "category": "Fijaciones",
+    "unit": "par",
+    "stock": 50,
+    "location": "Pasillo 1 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM196",
+    "name": "Ítem de almacén 196",
+    "category": "Consumible",
+    "unit": "unidad",
+    "stock": 55,
+    "location": "Pasillo 2 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM197",
+    "name": "Ítem de almacén 197",
+    "category": "Seguridad",
+    "unit": "metro",
+    "stock": 60,
+    "location": "Pasillo 3 - Estante 2",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM198",
+    "name": "Ítem de almacén 198",
+    "category": "Mecánico",
+    "unit": "litro",
+    "stock": 65,
+    "location": "Pasillo 4 - Estante 3",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM199",
+    "name": "Ítem de almacén 199",
+    "category": "Adhesivos",
+    "unit": "juego",
+    "stock": 70,
+    "location": "Pasillo 5 - Estante 4",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  },
+  {
+    "code": "ITM200",
+    "name": "Ítem de almacén 200",
+    "category": "Estructura",
+    "unit": "rollo",
+    "stock": 25,
+    "location": "Pasillo 1 - Estante 1",
+    "description": "Componente utilizado en la fabricación de carpas igloo, módulos y hangares. Incluye especificaciones de calidad para montaje en proyectos modulares."
+  }
+]
